@@ -7,8 +7,8 @@ The first column refers to the name of the technology that should be used in the
 
 | Name in configuration file     | Display name                   | Notes |
 |--------------------------------|--------------------------------|-------|
-| `abap`                         | ABAP                           |
-| `abapsmartforms`               | ABAP SmartForms                |
+| `abap`                         | ABAP                           | (5) |
+| `abapsmartforms`               | ABAP SmartForms                | (5) |
 | `abl`                          | Abl                            |
 | `acl`                          | ACL                            |
 | `accell`                       | Accell                         |
@@ -18,11 +18,11 @@ The first column refers to the name of the technology that should be used in the
 | `adabasnatural`                | Adabas Natural                 |
 | `adfxml`                       | ADF XML                        |
 | `agilepoint`                   | AgilePoint                     |
-| `altovauml`                    | Altova UML                     |
+| `altovauml`                    | Altova UML                     | (5) |
 | `angularjstemplate`            | Angular Templates              |
 | `ansible`                      | Ansible                        |
 | `apachecamel`                  | Apache Camel                   |
-| `apex`                         | APEX                           |
+| `apex`                         | APEX                           | (5) |
 | `aps`                          | APS                            |
 | `applicationmaster`            | Application Master             |
 | `ash`                          | ArtosScript (ash)              |
@@ -30,20 +30,20 @@ The first column refers to the name of the technology that should be used in the
 | `aspx`                         | ASP.NET                        |
 | `assembly`                     | Assembly                       |
 | `aura`                         | Aura                           |
-| `axway`                        | Axway                          |
-| `axystudio`                    | AxyStudio functions            |
+| `axway`                        | Axway                          | (5) |
+| `axystudio`                    | AxyStudio functions            | (5) |
 | `axyworkflow`                  | Axystudio workflows            |
 | `basic`                        | BASIC                          |
 | `batch`                        | Batch                          |
 | `bea`                          | Bea weblogic                   |
 | `beanshell`                    | BeanShell                      |
-| `beinformed`                   | Be Informed                    |
+| `beinformed`                   | Be Informed                    | (5) |
 | `biztalk`                      | BizTalk                        |
 | `biztalkrules`                 | BizTalk Rules Engine           |
-| `blazerules`                   | Blaze BRM                      |
+| `blazerules`                   | Blaze BRM                      | (5) |
 | `blueprism`                    | Blue Prism                     |
-| `blueriq`                      | Blueriq flows/processes        |
-| `blueriqexpressions`           | Blueriq expressions            |
+| `blueriq`                      | Blueriq flows/processes        | (5) |
+| `blueriqexpressions`           | Blueriq expressions            | (5) |
 | `bpel`                         | BPEL                           |
 | `bpm`                          | BPMN                           |
 | `brail`                        | Brail                          |
@@ -93,7 +93,7 @@ The first column refers to the name of the technology that should be used in the
 | `finacle`                      | Finacle                        |
 | `freeformatcobol`              | Freeformat Cobol               |
 | `freemarker`                   | Freemarker                     |
-| `fme`                          | FME                            |
+| `fme`                          | FME                            | (5) |
 | `fortran`                      | FORTRAN                        |
 | `generated`                    | Generated                      |
 | `gensym`                       | Gensym                         |
@@ -106,8 +106,8 @@ The first column refers to the name of the technology that should be used in the
 | `haml`                         | Haml                           |
 | `html`                         | HTML                           |
 | `hql`                          | HQL                            |
-| `ibmbpmbpd`                    | IBM BPM (BPD)                  |
-| `ibmbpmprocess`                | IBM BPM (Process)              |
+| `ibmbpmbpd`                    | IBM BPM (BPD)                  | (5) |
+| `ibmbpmprocess`                | IBM BPM (Process)              | (5) |
 | `ideal`                        | Ideal                          |
 | `informatica`                  | Informatica                    |
 | `informix4gl`                  | Informix 4GL                   |
@@ -129,8 +129,8 @@ The first column refers to the name of the technology that should be used in the
 | `jsp`                          | JSP                            |
 | `kotlin`                       | Kotlin                         |
 | `less`                         | Less                           |
-| `linc`                         | LINC                           |
-| `lion`                         | Lion                           |
+| `linc`                         | LINC                           | (5) |
+| `lion`                         | Lion                           | (5) |
 | `lodestar`                     | Lodestar                       |
 | `logicapps`                    | Logic Apps                     |
 | `logicnets`                    | LogicNets                      |
@@ -143,22 +143,22 @@ The first column refers to the name of the technology that should be used in the
 | `mediationflows`               | Mediation Flows                |
 | `mendix`                       | Mendix                         |
 | `messagebuilder`               | MessageBuilder                 |
-| `mpsbehavior`                  | MPS Behavior                   |
-| `mpsclass`                     | MPS Class                      |
-| `mpstranslator`                | MPS Translator                 |
+| `mpsbehavior`                  | MPS Behavior                   | (5) |
+| `mpsclass`                     | MPS Class                      | (5) |
+| `mpstranslator`                | MPS Translator                 | (5) |
 | `mule`                         | Mule                           |
 | `mtwize`                       | MtWize                         |
-| `murexdatadictionary`          | Murex Data Dictionary          |
-| `murexlookuptable`             | Murex Lookup Table             |
-| `murexscript`                  | Murex Script                   |
-| `murexworkflow`                | Murex Workflow                 |
+| `murexdatadictionary`          | Murex Data Dictionary          | (5) |
+| `murexlookuptable`             | Murex Lookup Table             | (5) |
+| `murexscript`                  | Murex Script                   | (5) |
+| `murexworkflow`                | Murex Workflow                 | (5) |
 | `mustache`                     | Mustache                       |
 | `mysql`                        | MySQL                          |
 | `naviscript`                   | Naviscript                     |
 | `navision`                     | Navision                       |
-| `netiqidmpolicy`               | NetIQ IDM Policy               |
-| `netiqidmrequest`              | NetIQ IDM Request              |
-| `netiqidmworkflow`             | NetIQ IDM Workflow             |
+| `netiqidmpolicy`               | NetIQ IDM Policy               | (5) |
+| `netiqidmrequest`              | NetIQ IDM Request              | (5) |
+| `netiqidmworkflow`             | NetIQ IDM Workflow             | (5) |
 | `netweaveridm`                 | NetweaverIDM                   |
 | `nonstopsql`                   | Nonstop SQL                    |
 | `normalizedsystemsjava`        | Normalized Systems Java        |
@@ -178,23 +178,23 @@ The first column refers to the name of the technology that should be used in the
 | `osbproxy`                     | OSB Proxy                      |
 | `osmprocess`                   | OSM Process                    |
 | `osmtask`                      | OSM Task                       |
-| `outsystems`                   | OutSystems                     |
+| `outsystems`                   | OutSystems                     | (5) |
 | `pascal`                       | Pascal                         |
-| `pega`                         | Pega                           |
-| `pegajsp`                      | PEGA JSP                       |
+| `pega`                         | Pega                           | (5) |
+| `pegajsp`                      | PEGA JSP                       | (5) |
 | `performance`                  | Performance                    |
 | `perl`                         | Perl                           |
 | `php`                          | PHP                            |
-| `plc`                          | PLC                            |
+| `plc`                          | PLC                            | (5) |
 | `pli`                          | PL/I                           |
 | `plsql`                        | PL/SQL                         |
-| `plsqlforms`                   | PL/SQL Forms                   |
+| `plsqlforms`                   | PL/SQL Forms                   | (5) |
 | `plsqlreports`                 | PL/SQL Reports                 |
 | `pluk`                         | PLUK                           |
-| `polymertemplates`             | Polymer Templates              |
+| `polymertemplates`             | Polymer Templates              | (5) |
 | `postgresql`                   | PostgreSQL                     |
 | `powerbuilder`                 | Powerbuilder                   |
-| `powercenter`                  | PowerCenter                    |
+| `powercenter`                  | PowerCenter                    | (5) |
 | `powerfx`                      | Power Fx                       |
 | `powershell`                   | Powershell                     |
 | `production`                   | Production code                |
@@ -205,11 +205,11 @@ The first column refers to the name of the technology that should be used in the
 | `puppet`                       | Puppet                         |
 | `python`                       | Python                         |
 | `r`                            | R                              |
-| `radience`                     | Radience                       |
+| `radience`                     | Radience                       | (5) |
 | `razor`                        | Razor                          |
 | `react`                        | React                          | (2) |
-| `regelspraak`                  | ALEF Regelspraak               |
-| `regelspraakhtml`              | ALEF Regelspraak               |
+| `regelspraak`                  | ALEF Regelspraak               | (5) |
+| `regelspraakhtml`              | ALEF Regelspraak               | (5) |
 | `rexx`                         | Rexx                           |
 | `robot`                        | Robot                          |
 | `rpg`                          | RPG                            |
@@ -217,21 +217,21 @@ The first column refers to the name of the technology that should be used in the
 | `rust`                         | Rust                           |
 | `salesforceapex`               | Salesforce Apex                |
 | `salesforceflow`               | Salesforce Flow                |
-| `sappo`                        | SAP PO                         |
-| `sapui5`                       | SapUI5                         |
+| `sappo`                        | SAP PO                         | (5) |
+| `sapui5`                       | SapUI5                         | (5) |
 | `sas`                          | SAS                            |
-| `sasflows`                     | SAS Flows                      |
+| `sasflows`                     | SAS Flows                      | (5) |
 | `sass`                         | Sass                           |
 | `scala`                        | Scala                          |
 | `scl`                          | SCL                            |
 | `scr`                          | SCR                            |
 | `script`                       | Shell script                   |
-| `servicenow`                   | ServiceNow                     |
-| `siebeldeclarative`            | Siebel Declarative             |
-| `siebeljs`                     | Siebel JS                      |
-| `siebelscripted`               | Siebel Scripted                |
-| `siebelworkflow`               | Siebel Workflow                |
-| `siebeltbui`                   | Siebel TBUI                    |
+| `servicenow`                   | ServiceNow                     | (5) |
+| `siebeldeclarative`            | Siebel Declarative             | (5) |
+| `siebeljs`                     | Siebel JS                      | (5) |
+| `siebelscripted`               | Siebel Scripted                | (5) |
+| `siebelworkflow`               | Siebel Workflow                | (5) |
+| `siebeltbui`                   | Siebel TBUI                    | (5) |
 | `slim`                         | Slim                           |
 | `smalltalk`                    | Smalltalk                      |
 | `solidity`                     | Solidity                       |
@@ -249,7 +249,7 @@ The first column refers to the name of the technology that should be used in the
 | `t4`                           | T4                             |
 | `tacl`                         | TACL                           |
 | `tal`                          | TAL                            |
-| `tandem`                       | Tandem                         |
+| `tandem`                       | Tandem                         | (5) |
 | `tapestry`                     | Tapestry                       |
 | `terraform`                    | Terraform                      |
 | `test`                         | Testcode                       |
@@ -261,7 +261,7 @@ The first column refers to the name of the technology that should be used in the
 | `tibcobestatemachine`          | TIBCO BE (State Machine)       |
 | `tibcobw6`                     | TIBCO BW6                      |
 | `tripleforms`                  | TriplEforms                    |
-| `tsql`                         | T-SQL                          |
+| `tsql`                         | T-SQL                          | (5) |
 | `turtle`                       | Turtle                         |
 | `typescript`                   | TypeScript                     | (3) |
 | `uil`                          | UIL (Motif)                    |
@@ -282,14 +282,14 @@ The first column refers to the name of the technology that should be used in the
 | `webfocus`                     | WebFocus                       |
 | `webmethods`                   | WebMethods                     |
 | `webmethodsbpm`                | WebMethods BPM                 |
-| `websmart`                     | WebSmart                       |
+| `websmart`                     | WebSmart                       | (5) |
 | `wonderware`                   | Wonderware                     |
 | `wsdl`                         | WSDL                           |
 | `wtx`                          | WTX                            |
 | `xaml`                         | XAML                           |
 | `xml`                          | XML                            | (4) |
 | `xpdl`                         | Tibco ActiveMatrix BPM         |
-| `xpp`                          | X++                            |
+| `xpp`                          | X++                            | (5) |
 | `xquery`                       | Xquery                         |
 | `xsd`                          | XSD                            |
 | `xslt`                         | XSLT                           |
@@ -302,6 +302,7 @@ Notes:
 2. Use either `javascript` or `react` or `vuejs`, but do not use multiple. Prefer `vuejs` if your system contains [Vue.js](https://vuejs.org) components that use the `.vue` file extension. Prefer `react` if your codebase contains [React](https://reactjs.org) and/or [JSX](https://reactjs.org/docs/introducing-jsx.html). Use `javascript` in all other cases.
 3. Use either `typescript` or `vuets`, but not both. Prefer `vuets` if you're using [Vue.js](https://vuejs.org) in combination with TypeScript code. Prefer `typescript` in all other cases.
 4. In most cases, configuration files are not considered part of production code and are therefore not relevant for Sigrid's maintainability analysis. Only add these technologies if you consider them part of the system's production code.
+5. This technology does not currently support self-service configuration. [Contact us](mailto:support@softwareimprovementgroup.com) if you are interested.
 
 ## Requesting additional technology support
 
